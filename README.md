@@ -1,5 +1,5 @@
 # HOG-SVM-ImageClassifier
-##### The HOG-SVM Image Classifier is a method employed for image recognition and object detection. To build a model, one gathers a dataset and uses HOG (Histogram of Oriented Gradients) to extract features from the images. These features are then input into the SVM (Support Vector Machine) algorithm to train the model. Once trained, the model can classify new images. The evaluation process involves using a separate set of images to test the model's accuracy. The HOG-SVM Image Classifier is an effective technique for accurately identifying objects in various contexts.
+ The HOG-SVM Image Classifier is a method employed for image recognition and object detection. To build a model, one gathers a dataset and uses HOG (Histogram of Oriented Gradients) to extract features from the images. These features are then input into the SVM (Support Vector Machine) algorithm to train the model. Once trained, the model can classify new images. The evaluation process involves using a separate set of images to test the model's accuracy. The HOG-SVM Image Classifier is an effective technique for accurately identifying objects in various contexts.
 
 
 
